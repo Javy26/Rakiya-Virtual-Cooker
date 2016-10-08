@@ -1,0 +1,56 @@
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe.config
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.pdb
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csprojResolveAssemblyReference.cache
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Form1.resources
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Properties.Resources.resources
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csproj.GenerateResource.Cache
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.exe
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.pdb
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csprojResolveAssemblyReference.cache
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Form1.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Mass.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Properties.Resources.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.TimeTable.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Volume.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csproj.GenerateResource.Cache
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.exe
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe.config
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.pdb
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\mscorlib.dll
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\System.Net.Http.dll
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\System.Net.Http.xml
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\normidna.nlp
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\normnfc.nlp
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\normnfd.nlp
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\normnfkc.nlp
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\normnfkd.nlp
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.pdb
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Mass.resources
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.TimeTable.resources
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Volume.resources
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe.config
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.exe
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.pdb
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.pdb
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csprojResolveAssemblyReference.cache
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Form1.resources
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Mass.resources
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Properties.Resources.resources
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.TimeTable.resources
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Volume.resources
+C:\Users\okieve\Documents\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csproj.GenerateResource.Cache
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe.config
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.exe
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.pdb
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.exe
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Release\Rakiya Virtual Cooker.pdb
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csprojResolveAssemblyReference.cache
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Form1.resources
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Mass.resources
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Properties.Resources.resources
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.TimeTable.resources
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya_Virtual_Cooker.Volume.resources
+C:\Users\Jevon\Desktop\movies\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Release\Rakiya Virtual Cooker.csproj.GenerateResource.Cache

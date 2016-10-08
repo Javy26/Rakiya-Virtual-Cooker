@@ -1,0 +1,21 @@
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Debug\Rakiya Virtual Cooker.exe.config
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.csprojResolveAssemblyReference.cache
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya_Virtual_Cooker.Form1.resources
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya_Virtual_Cooker.Properties.Resources.resources
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.csproj.GenerateResource.Cache
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Debug\Rakiya Virtual Cooker.exe
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Debug\Rakiya Virtual Cooker.pdb
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.exe
+G:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.pdb
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Debug\Rakiya Virtual Cooker.exe.config
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.exe
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.pdb
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Debug\Rakiya Virtual Cooker.exe
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\bin\Debug\Rakiya Virtual Cooker.pdb
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.csprojResolveAssemblyReference.cache
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya_Virtual_Cooker.Form1.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya_Virtual_Cooker.Properties.Resources.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya Virtual Cooker.csproj.GenerateResource.Cache
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya_Virtual_Cooker.Mass.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya_Virtual_Cooker.TimeTable.resources
+F:\Rakiya Virtual Cooker\Rakiya Virtual Cooker\obj\Debug\Rakiya_Virtual_Cooker.Volume.resources
