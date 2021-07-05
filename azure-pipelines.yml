@@ -22,13 +22,6 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- task: SnykSecurityScan@0
-  inputs:
-    serviceConnectionEndpoint: 'Test_Snyk'
-    testType: 'container'
-    dockerImageName: 'Javy26.Rakiya-Virtual-Cooker'
-    monitorOnBuild: true
-    failOnIssues: true
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
