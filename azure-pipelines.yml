@@ -25,7 +25,8 @@ steps:
 - task: SnykSecurityScan@0
   inputs:
     serviceConnectionEndpoint: 'Test_Snyk'
-    testType: 'app'
+    testType: 'container'
+    dockerImageName: 'Javy26.Rakiya-Virtual-Cooker'
     monitorOnBuild: true
     failOnIssues: true
 
